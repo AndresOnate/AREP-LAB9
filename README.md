@@ -48,3 +48,12 @@ En este reto, escribiremos un programa en Python para enviar indicaciones al mod
 ### Generación Aumentada con Recuperación (RAG) Simple utilizando una Base de Datos de Vectores en Memoria
 
 Este programa implementa un modelo simple de Generación Aumentada con Recuperación (RAG) utilizando una base de datos de vectores en memoria. Utiliza LangChain para cargar documentos, crear incrustaciones y realizar búsqueda de similitud para responder preguntas.
+
+
+![image](https://github.com/AndresOnate/AREP-LAB9/assets/63562181/1755c4bb-e7de-4ed9-9fbe-ca07cc802f2b)
+
+### RAG Utilizando Pinecone para Almacenamiento de Vectores
+
+![image](https://github.com/AndresOnate/AREP-LAB9/assets/63562181/22c300cd-8a91-4253-8dc7-8aba4b198731)
+
+
