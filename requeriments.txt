@@ -9,3 +9,6 @@ bs4
 pinecone-client
 langchain-pinecone
 langchain-community
+gitpython
+langchain-chroma
+langchain_openai
